@@ -1,0 +1,1 @@
+writing and reading both operationstesting write from read mode
