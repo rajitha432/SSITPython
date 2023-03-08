@@ -42,3 +42,5 @@ print(age.isdigit())
 
 # count => to check the characters count
 print(name.count('C'))
+
+print("Adding changes")
