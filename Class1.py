@@ -16,6 +16,8 @@ print(name)
 print(age)
 print(address)
 
+name ="mohan"
+print(name)
 
 
 
